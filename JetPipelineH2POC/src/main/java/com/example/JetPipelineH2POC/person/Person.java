@@ -1,4 +1,4 @@
-package com.example.JetPipelineH2POC.person;
+package jet_pipeline_h2_poc.JetPipelineH2POC.src.main.java.com.example.JetPipelineH2POC.person;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import java.io.Serializable;

@@ -1,6 +1,6 @@
-package com.example.JetPipelineH2POC.service;
+package jet_pipeline_h2_poc.JetPipelineH2POC.src.main.java.com.example.JetPipelineH2POC.service;
 
-import com.example.JetPipelineH2POC.person.Person;
+import jet_pipeline_h2_poc.JetPipelineH2POC.src.main.java.com.example.JetPipelineH2POC.person.Person;
 
 import java.io.File;
 import java.util.List;

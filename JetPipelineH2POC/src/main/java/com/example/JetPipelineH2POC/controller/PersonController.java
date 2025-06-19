@@ -1,7 +1,7 @@
-package com.example.JetPipelineH2POC.controller;
+package jet_pipeline_h2_poc.JetPipelineH2POC.src.main.java.com.example.JetPipelineH2POC.controller;
 
-import com.example.JetPipelineH2POC.person.Person;
-import com.example.JetPipelineH2POC.service.PersonService;
+import jet_pipeline_h2_poc.JetPipelineH2POC.src.main.java.com.example.JetPipelineH2POC.person.Person;
+import jet_pipeline_h2_poc.JetPipelineH2POC.src.main.java.com.example.JetPipelineH2POC.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.core.io.Resource;
